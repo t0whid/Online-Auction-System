@@ -35,13 +35,13 @@ function validationn() {
                     window.alert('Please enter your username');
 		    //move the cursor to username
                     username.focus();
-                    return false;
+					return false;
                 }
 
 
 		//validate password not empty
 		if(password.value == ''){
-		 	window.alert('please enter your Password.');
+			window.alert('please enter your Password.');
 			window.focus();
 			return false;
 		}
