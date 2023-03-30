@@ -149,7 +149,7 @@ echo "</form>";
 
 <p>
 	
-	Already have an account? <a href="login.php" class="link">Login</a>
+	Already have an account?<a href="login.php" class="link">Login</a>
 </p>
 
 </body>
