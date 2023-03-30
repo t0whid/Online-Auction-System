@@ -176,6 +176,7 @@ echo "<datalist id='payment_method'>
 <option value = 'Mpesa No:'>
 <option value = 'Paybill No:'>
 <option value = 'Cash On Delivery'>
+<option value = 'Lipa Pole pole'>
 </datalist>";
 
 echo "<br>";
