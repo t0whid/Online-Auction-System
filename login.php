@@ -30,7 +30,7 @@ function validationn() {
 		//add more variables here eg email gender etc
 
                 
-		//validate  the username is not empty
+		//validate  that the username is not empty
 		if (username.value == '') {
                     window.alert('Please enter your username');
 		    //move the cursor to username
