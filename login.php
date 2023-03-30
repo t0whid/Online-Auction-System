@@ -18,7 +18,7 @@ echo "<img id = 'logo' src ='item/newauction.png'/>";
 echo "<br>";
 echo "<form name='regform' form class = 'login_form' action = 'check_login.php' onsubmit='return validationn()' method = 'POST'>";
 
-echo "<h4>PLease Login</h4>";
+echo "<h4>Login</h4>";
 
 echo "<script>
 function validationn() {
@@ -45,7 +45,7 @@ function validationn() {
 			window.focus();
 			return false;
 		}
- }
+}
 </script>";
 
 
