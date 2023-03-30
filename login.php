@@ -28,7 +28,7 @@ function validationn() {
                 var password = document.forms['regform']['password'];
 
 		//add more variables here eg email gender etc
-  
+
                 
 		//validate  the username is not empty
 		if (username.value == '') {
