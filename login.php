@@ -36,7 +36,6 @@ function validationn() {
 		    //move the cursor to username
                     username.focus();
                     return false;
-					
                 }
 
 
