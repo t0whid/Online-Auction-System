@@ -59,7 +59,7 @@ echo "</form>";
 
 echo "<a href='display_items.php'><button>back<button></a>";
 
- ?>
+?>
 
 </body>
 </html>
