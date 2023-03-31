@@ -188,7 +188,7 @@ echo "<input class = 'submit' type = 'submit' value='submit'style='margin-right:
 
 echo "<input class = 'submit' type ='reset' value = 'reset'>";
 
-echo "<form/>";
+echo "<form/>"; 
 
 
 ?>
